@@ -35,8 +35,8 @@ export default function Page() {
 
   return (
     <div>
-      <h1>HTML and Javascript Simon Memory Game</h1>
-      <p>This page serves the initial frame metadata for the HTML and Javascript Simon Memory game Frame.</p>
+      <h1>Farcaster Action Simon Memory Game</h1>
+      <p>This page serves the initial frame metadata for the Farcaster Action Simon Memory.</p>
      
     </div>
   );
