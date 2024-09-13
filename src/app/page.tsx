@@ -10,7 +10,7 @@ const frameMetadata = getFrameMetadata({
       target: 'https://simon-game-liart-psi.vercel.app/', // URL of the Simon Game
     },
   ],
-  image: `${NEXT_PUBLIC_URL}/ok.PNG`,
+  image: `${NEXT_PUBLIC_URL}/ok.png`,
   post_url: `${NEXT_PUBLIC_URL}/api/frame`,
 });
 
