@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Simon Game',
     description: 'HTML and Javascript Simon Memory game',
-    images: [`${NEXT_PUBLIC_URL}/ok.PNG`],
+    images: [`${NEXT_PUBLIC_URL}/ok.png`],
   },
   other: {
     ...frameMetadata,
